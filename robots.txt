@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://painseloy.github.io/sitemap
+Sitemap: https://painseloy.github.io/app/sitemap
+Sitemap: https://painseloy.github.io/assets/sitemap
+Sitemap: https://painseloy.github.io/css/sitemap
+Sitemap: https://painseloy.github.io/includes/sitemap
+Sitemap: https://painseloy.github.io/item/sitemap
+Sitemap: https://painseloy.github.io/src/sitemap
